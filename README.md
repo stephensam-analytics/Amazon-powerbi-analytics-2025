@@ -67,7 +67,7 @@ Customer-level KPIs, **Top 10 Customers by Sales**, **Sales by Location** (pie),
 ### 3. Product Intelligent
 **Revenue per Unit by Product**, **Quantity Sold by Product**, **Cancellation Rate by Product**, and Sales vs Quantity. Slicers: Date, Category, Product.
 
-![Product Intelligent](images/product-intelligent.png)
+Product Intelligent.png
 
 ---
 
