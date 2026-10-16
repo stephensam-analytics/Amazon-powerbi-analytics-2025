@@ -67,7 +67,7 @@ Customer-level KPIs, **Top 10 Customers by Sales**, **Sales by Location** (pie),
 ### 3. Product Intelligent
 **Revenue per Unit by Product**, **Quantity Sold by Product**, **Cancellation Rate by Product**, and Sales vs Quantity. Slicers: Date, Category, Product.
 
-Product Intelligent.png
+https://github.com/stephensam-analytics/Amazon-powerbi-analytics-2025/blob/dbba33ea5c47cacd5f033c73e718ddfbb4f3fe56/Product%20Intelligent.png
 
 ---
 
