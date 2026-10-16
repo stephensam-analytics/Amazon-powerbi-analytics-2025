@@ -57,7 +57,7 @@ This project turns raw order data into an interactive Power BI report that helps
 ### 1. Executive Overview
 KPI cards (Total Sales, Total Orders, Total Quantity, Average Order Value, Cancellation Rate), a **Sales Trend Over Time** line chart, a **Sales vs Quantity by Product** scatter plot, **Sales by Category**, and **Cancellation Rate by Category**. Slicers: Date, Category, Product, Order Status.
 
-![Executive Overview](images/executive-overview.png)
+https://github.com/stephensam-analytics/Amazon-powerbi-analytics-2025/blob/04761c594e83fdf32de370dcb426a13c3d679306/Executive%20Overview.png
 
 ### 2. Customer & Geography
 Customer-level KPIs, **Top 10 Customers by Sales**, **Sales by Location** (pie), **Average Order by Location**, and **Total Orders by Location**. Slicers: Date, Customer Location, Category.
