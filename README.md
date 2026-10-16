@@ -62,7 +62,7 @@ https://github.com/stephensam-analytics/Amazon-powerbi-analytics-2025/blob/04761
 ### 2. Customer & Geography
 Customer-level KPIs, **Top 10 Customers by Sales**, **Sales by Location** (pie), **Average Order by Location**, and **Total Orders by Location**. Slicers: Date, Customer Location, Category.
 
-![Customer & Geography](images/customer-geography.png)
+https://github.com/stephensam-analytics/Amazon-powerbi-analytics-2025/blob/90ddb154b7782f314aac717ddf1a64e2a41e4d6e/customer%20%26%20geography.png
 
 ### 3. Product Intelligent
 **Revenue per Unit by Product**, **Quantity Sold by Product**, **Cancellation Rate by Product**, and Sales vs Quantity. Slicers: Date, Category, Product.
